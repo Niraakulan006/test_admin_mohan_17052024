@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'bold';
+    src: url('font/bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;}
+@font-face {
+    font-family: 'medium';
+    src: url('font/medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;}
+li{list-style-type:none;}
+a{text-decoration: none;}
+.fullpad{padding:0!important; margin:0!important;}
+.heading1{font-size: 2.5rem;} .heading2{font-size: 2rem;} .heading3{font-size: 1.75rem;} .heading4{font-size: 1.5rem;} .heading5{font-size: 1.25rem;} .heading6{font-size: 1rem;}
+.smallfnt{font-size: 14px!important;}
+.let-pad{padding:30px 35px;}
+.login-img {
+    width: 100%;
+    height: 100vh;
+    -o-object-fit: cover;
+    object-fit: cover;}
+.bold{font-family:'bold';}
+.medium{font-family:'medium';}
+.login-label {font-size: 14px; color: #999;}
+.box .form-control {
+    padding: 15px 5px;
+    border: 1px solid #3b67b3;
+    border-radius: 0px;
+    border-top: none;
+    border-left: none;
+    border-right: none;}
+.form-control:focus {box-shadow: none; border: 2px solid #2960b5!important;}
+.loginbtn{background-color: #2960b5; color: #fff; padding: 10px 30px; width: 100%; border:2px solid #2960b5; transition: .15s ease-in-out;}
+.loginbtn:hover{background-color: #fff; color: #2960b5; }
+.frgtpswd{font-size: 13px; text-decoration: underline; color:#222!important;}
+.rgstr{font-size: 14px; color:#222;}
+.rgstr:hover{color:#222; text-decoration: underline;}
+.btn-secondary{background-color: #fff!important; border-color:#fff!important; color:#000!important;}
+
+
+@media (min-width:5px) and (max-width:767.98px){
+.mobilebg{background-image: url("../images/login.jpg"); 
+    background-size: cover; 
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    height:100%;}
+.mobilebg1{background-image: url("../images/login.jpg"); 
+    background-size: cover; 
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;}    
+.let-pad {
+    padding: 30px 25px;
+    background: #fffffff0;
+    margin: 200px auto;
+border-radius: 5px;}
+}
+
+
+@media (min-width:768px) and (max-width:992.98px){
+.mobilebg{background-image: url("../images/login.jpg"); 
+    background-size: cover; 
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;}
+.let-pad {
+    padding: 30px 15px;
+    background: #ffffffc9;
+    margin: 100px auto;}
+}

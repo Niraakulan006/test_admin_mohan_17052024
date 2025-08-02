@@ -1,0 +1,7 @@
+[08-Jul-2025 17:30:59 Asia/Calcutta] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/fpdf/fpdf.php(1061): FPDF->Error()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/fpdf/fpdf.php(1000): FPDF->_checkoutput()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/reports/rpt_payment_report.php(442): FPDF->Output()
+#3 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/fpdf/fpdf.php on line 271

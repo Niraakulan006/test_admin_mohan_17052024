@@ -1,0 +1,364 @@
+[08-Jul-2025 15:38:33 Asia/Calcutta] PHP Warning:  Array to string conversion in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php on line 779
+[08-Jul-2025 15:38:33 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'branch_id' in 'WHERE' in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php(798): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(554): Payment_functions->GetLRNumberList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/payment_bill_changes.php(498): billing->GetLRNumberList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 15:42:35 Asia/Calcutta] PHP Warning:  Array to string conversion in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php on line 779
+[08-Jul-2025 15:42:35 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'branch_id' in 'WHERE' in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php(798): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(554): Payment_functions->GetLRNumberList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/payment_bill_changes.php(498): billing->GetLRNumberList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 15:44:58 Asia/Calcutta] PHP Warning:  Array to string conversion in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php on line 779
+[08-Jul-2025 15:44:58 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'branch_id' in 'WHERE' in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php(798): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(554): Payment_functions->GetLRNumberList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/payment_bill_changes.php(498): billing->GetLRNumberList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 15:46:26 Asia/Calcutta] PHP Warning:  Array to string conversion in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php on line 779
+[08-Jul-2025 15:46:26 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'branch_id' in 'WHERE' in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php(798): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(554): Payment_functions->GetLRNumberList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/payment_bill_changes.php(498): billing->GetLRNumberList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 15:49:53 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'branch_id' in 'WHERE' in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php(808): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(554): Payment_functions->GetLRNumberList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/payment_bill_changes.php(498): billing->GetLRNumberList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 11:16:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[08-Jul-2025 11:24:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[08-Jul-2025 17:29:19 Asia/Calcutta] PHP Warning:  Undefined variable $login_branch_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php on line 697
+[08-Jul-2025 17:29:19 Asia/Calcutta] PHP Warning:  Undefined variable $login_branch_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php on line 704
+[08-Jul-2025 17:29:27 Asia/Calcutta] PHP Warning:  Undefined variable $login_branch_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php on line 697
+[08-Jul-2025 17:29:27 Asia/Calcutta] PHP Warning:  Undefined variable $login_branch_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php on line 704
+[08-Jul-2025 17:30:27 Asia/Calcutta] PHP Warning:  Undefined variable $obj in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php on line 699
+[08-Jul-2025 17:30:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function getTableColumnValue() on null in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php:699
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(547): Payment_functions->getPaymentReportList()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/payment_report.php(64): billing->getPaymentReportList()
+#2 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php on line 699
+[08-Jul-2025 17:30:31 Asia/Calcutta] PHP Warning:  Undefined variable $obj in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php on line 699
+[08-Jul-2025 17:30:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function getTableColumnValue() on null in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php:699
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(547): Payment_functions->getPaymentReportList()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/payment_report.php(64): billing->getPaymentReportList()
+#2 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php on line 699
+[08-Jul-2025 17:46:27 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/bill_changes.php on line 20
+[08-Jul-2025 18:01:49 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND branch_id IN ('516c4a42546b4e49587a41344d4463794d4449314d5449314d54417758...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(249): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(750): Report_functions->GetPendingBalanceList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/pending_balance_report.php(63): billing->GetPendingBalanceList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:02:13 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND branch_id IN ('516c4a42546b4e49587a41344d4463794d4449314d5449314d54417758...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(249): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(750): Report_functions->GetPendingBalanceList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/pending_balance_report.php(63): billing->GetPendingBalanceList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:03:58 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'party_id = '5130394f55306c48546b3953587a41344d4463794d4449314d4445784f5451315...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(250): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(750): Report_functions->GetPendingBalanceList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/pending_balance_report.php(63): billing->GetPendingBalanceList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:05:04 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AND bill_type != 'Opening Balance' AND party_type != 'NULL' AND party_type ...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(563): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(792): Report_functions->getDaybookReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/daybook.php(77): billing->getDaybookReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:05:22 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AND bill_type != 'Opening Balance' AND party_type != 'NULL' AND party_type ...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(563): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(792): Report_functions->getDaybookReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/daybook.php(77): billing->getDaybookReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:05:47 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AND bill_type != 'Opening Balance' AND party_type != 'NULL' AND party_type ...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(563): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(792): Report_functions->getDaybookReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/daybook.php(77): billing->getDaybookReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:07:46 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AND  bill_type IN ('voucher', 'expense', 'receipt')  AND deleted = '0' ORDE...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php(789): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(547): Payment_functions->getPaymentReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/payment_report.php(64): billing->getPaymentReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:08:54 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'branch_id IN () AND AND bill_type != 'Opening Balance' AND party_type != 'NUL...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(563): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(792): Report_functions->getDaybookReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/daybook.php(77): billing->getDaybookReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:08:57 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'branch_id IN () AND AND bill_type != 'Opening Balance' AND party_type != 'NUL...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(563): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(792): Report_functions->getDaybookReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/daybook.php(77): billing->getDaybookReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:09:07 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'branch_id IN ('516c4a42546b4e49587a41344d4463794d4449314d5449314d544177587a41...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(563): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(792): Report_functions->getDaybookReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/daybook.php(77): billing->getDaybookReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:09:30 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AND  bill_type IN ('voucher', 'expense', 'receipt')  AND deleted = '0' ORDE...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php(789): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(547): Payment_functions->getPaymentReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/payment_report.php(64): billing->getPaymentReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:09:38 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'branch_id IN () AND AND bill_type != 'Opening Balance' AND party_type != 'NUL...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(563): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(792): Report_functions->getDaybookReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/daybook.php(77): billing->getDaybookReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:10:27 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 482
+[08-Jul-2025 18:10:27 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AND AND DATE(bill_date) >= '2025-07-08' AND DATE(bill_date) <= '2025-07-08'...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(562): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(792): Report_functions->getDaybookReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/daybook.php(77): billing->getDaybookReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:10:51 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 482
+[08-Jul-2025 18:10:51 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')  AND DATE(bill_date) >= '2025-07-08' AND DATE(bill_date) <= '2025-07-08' AN...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(562): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(792): Report_functions->getDaybookReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/daybook.php(77): billing->getDaybookReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:12:09 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AND  bill_type IN ('voucher', 'expense', 'receipt')  AND deleted = '0' ORDE...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php(789): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(547): Payment_functions->getPaymentReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/payment_report.php(64): billing->getPaymentReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:12:44 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AND  bill_type IN ('voucher', 'expense', 'receipt')  AND deleted = '0' ORDE...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/payment_functions.php(789): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(547): Payment_functions->getPaymentReportList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/payment_report.php(64): billing->getPaymentReportList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:13:48 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 482
+[08-Jul-2025 18:14:01 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'party_id = '5546565351306842553056665545465356466c664d4467774e7a49774d6a55774...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(251): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(750): Report_functions->GetPendingBalanceList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/pending_balance_report.php(63): billing->GetPendingBalanceList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:14:33 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'party_id = '5546565351306842553056665545465356466c664d4467774e7a49774d6a55774...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(251): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(750): Report_functions->GetPendingBalanceList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/pending_balance_report.php(63): billing->GetPendingBalanceList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:15:58 Asia/Calcutta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'party_id = '5546565351306842553056665545465356466c664d4467774e7a49774d6a55774...' at line 1 in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php:425
+Stack trace:
+#0 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php(425): PDOStatement->execute()
+#1 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php(251): Basic_Functions->getQueryRecords()
+#2 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/functions.php(750): Report_functions->GetPendingBalanceList()
+#3 /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/pending_balance_report.php(63): billing->GetPendingBalanceList()
+#4 {main}
+  thrown in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 425
+[08-Jul-2025 18:25:19 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 484
+[09-Jul-2025 12:17:57 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:57 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:47:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:00 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:00 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:00 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:00 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:00 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:00 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 12:18:27 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:27 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:27 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:27 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:29 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 06:48:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[09-Jul-2025 12:18:29 Asia/Calcutta] PHP Warning:  Undefined variable $login_user_id in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/basic_functions.php on line 591
+[09-Jul-2025 09:45:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[10-Jul-2025 10:47:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[11-Jul-2025 05:50:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[11-Jul-2025 06:07:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[11-Jul-2025 16:24:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[11-Jul-2025 16:27:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[11-Jul-2025 16:37:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[11-Jul-2025 16:55:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[12-Jul-2025 01:53:14 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/payment_bill_changes.php on line 87
+[12-Jul-2025 07:05:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[12-Jul-2025 16:45:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[12-Jul-2025 16:45:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[12-Jul-2025 16:45:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[14-Jul-2025 04:40:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[14-Jul-2025 05:10:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[14-Jul-2025 07:00:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[14-Jul-2025 10:03:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[14-Jul-2025 10:14:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[14-Jul-2025 10:14:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[14-Jul-2025 10:15:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[14-Jul-2025 13:56:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[15-Jul-2025 04:19:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[15-Jul-2025 04:20:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[15-Jul-2025 04:21:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[15-Jul-2025 09:52:22 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 484
+[15-Jul-2025 09:55:21 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 484
+[15-Jul-2025 10:00:40 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 484
+[15-Jul-2025 10:00:43 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 484
+[15-Jul-2025 04:39:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[15-Jul-2025 05:11:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[15-Jul-2025 05:13:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[15-Jul-2025 05:14:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[15-Jul-2025 05:14:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[15-Jul-2025 10:45:55 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 484
+[15-Jul-2025 05:16:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[15-Jul-2025 05:17:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[15-Jul-2025 10:48:18 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 484
+[15-Jul-2025 10:49:57 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 484
+[15-Jul-2025 15:53:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[16-Jul-2025 09:48:07 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 484
+[16-Jul-2025 09:49:59 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 484
+[16-Jul-2025 09:50:44 Asia/Calcutta] PHP Warning:  Undefined variable $where in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include/report_functions.php on line 484
+[16-Jul-2025 08:27:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[17-Jul-2025 15:47:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[18-Jul-2025 14:00:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[18-Jul-2025 16:41:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[19-Jul-2025 08:03:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[21-Jul-2025 16:00:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[22-Jul-2025 04:10:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[22-Jul-2025 04:12:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[22-Jul-2025 04:23:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[22-Jul-2025 14:51:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[23-Jul-2025 08:29:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[23-Jul-2025 14:43:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[23-Jul-2025 15:23:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[23-Jul-2025 15:27:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[24-Jul-2025 04:53:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[24-Jul-2025 16:08:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[26-Jul-2025 08:11:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[26-Jul-2025 16:41:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
+[30-Jul-2025 16:12:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/h2pil1aoovs5/public_html/subha2022/testing/test_admin_mohan_17052024/include_files.php on line 2
